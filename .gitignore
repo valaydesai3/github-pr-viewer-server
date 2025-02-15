@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Environment Variables
+.env
+
+# Cache & Temp Files
+.DS_Store
+*.cache

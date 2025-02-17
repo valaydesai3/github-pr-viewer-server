@@ -14,3 +14,7 @@ debug.log
 # Cache & Temp Files
 .DS_Store
 *.cache
+
+# Ignore environment files
+.env
+.env.*
